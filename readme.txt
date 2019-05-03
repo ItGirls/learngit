@@ -6,3 +6,4 @@ Git tracks changes of files.
 Add a new branch is quick.
 Test conflicts.
 Test conflictss.
+Add 1.
