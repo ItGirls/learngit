@@ -5,9 +5,3 @@ Git has a mutual index called stage.
 Git tracks changes of files.
 Add a new branch is quick.
 Test conflicts.
-Test conflictss.
-<<<<<<< HEAD
-Add 1.
-=======
-Add 1.
->>>>>>> feature2
